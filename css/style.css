@@ -1,0 +1,31 @@
+.test .box{
+    width: 60%;
+    position: relative;
+}
+.star span{
+    font-size: 22px;
+}
+.test .single-box {
+    outline: none;
+}
+.test .single-box img{
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+.test button.slick-next.slick-arrow {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.test button.slick-prev.slick-arrow {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 10;    
+}
+
+.test-2 .card img{
+    height: 150px;
+}
